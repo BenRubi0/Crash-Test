@@ -61,7 +61,7 @@ void Player::render(float r) {
 	// show trajectory
 	if (this->showingTrajectory) {
 		
-		DrawTextureEx(this->arrow, Vector2{1100, 600}, this->trajectoryRot, 0.25, WHITE);
+		DrawTextureEx(this->arrow, Vector2{1100, 650}, this->trajectoryRot, 0.25, WHITE);
 	}
 	// debug hitbox draw
 	//DrawRectangleLinesEx(this->hitboxRec, 2.5, BLUE);
