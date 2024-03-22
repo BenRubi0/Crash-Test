@@ -1,7 +1,7 @@
 # Car crash test
 To build from code, make sure you have visual studio.
 
-# Setup:
+# Code Setup:
 
   ## 1: Open the .sln file (BikeTest.sln)
   
@@ -12,3 +12,7 @@ To build from code, make sure you have visual studio.
   ## 4: Now copy the sfx and textures folder to the Release folder
   
   ## 5: Run Biketest.exe
+
+# Release Setup:
+
+## 1: 
