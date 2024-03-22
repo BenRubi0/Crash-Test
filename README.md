@@ -1,7 +1,10 @@
 # Car crash test
-To build from code, make sure you have visual studio.
+To build from code, make sure you have visual studio, and that you have Crash-Test-master.zip.
+To build from release, make sure you download the CarCrashTest.zip from the release tabs.
 
 # Code Setup:
+
+  ## 1: Extract Crash-Test-master.zip
 
   ## 1: Open the .sln file (BikeTest.sln)
   
@@ -15,4 +18,8 @@ To build from code, make sure you have visual studio.
 
 # Release Setup:
 
-## 1: 
+  ## 1: Extract CarCrashTest.zip
+  
+  ## 2: Run SetupCarTest.exe to setup the textures and sfx folders
+  
+  ## 3: Run BikeTest.exe
