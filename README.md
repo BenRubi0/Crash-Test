@@ -1,6 +1,8 @@
 # Car crash test
 To build from code, make sure you have visual studio.
 
+# Setup:
+
   ## 1: Open the .sln file (BikeTest.sln)
   
   ## 2: In visual studio, find and click the build button at the top and click the Build Solution button
