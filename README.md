@@ -4,6 +4,8 @@ To build from code, make sure you have visual studio, and that you have Crash-Te
 
 To build from release, make sure you download the CarCrashTest.zip from the release tabs.
 
+Download visual studio here: https://visualstudio.microsoft.com/
+
 # Code Setup:
 
   ## 1: Extract Crash-Test-master.zip
