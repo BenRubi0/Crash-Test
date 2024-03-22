@@ -1,5 +1,7 @@
 # Car crash test
+
 To build from code, make sure you have visual studio, and that you have Crash-Test-master.zip.
+
 To build from release, make sure you download the CarCrashTest.zip from the release tabs.
 
 # Code Setup:
